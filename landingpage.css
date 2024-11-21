@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
+.title{
+    color: black;
+}
 
 body {
     color: #333;
@@ -20,7 +23,6 @@ header {
 }
 
 .header-logo {
-    color: black;
     font-weight: bold;
     font-size: 1.2rem;
 }
